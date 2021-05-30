@@ -5,6 +5,11 @@ List of Conferences I have presented in:
 
 
 <ul>
+<li>StackConf 2021 - The Importance of Visuals in Teaching Code and Reducing Bias</li>
+<li>MongoDB live 2021 - The Importance of Visuals in Teaching Code and Reducing Bias</li>
+<li>Upstream 2021 - Computational thinking for Creatives - Decoding Barriers to Entry</li>
+<li>Conf42 Python 2021 - Programming your way up a Skyscraper - Coding in the Architecture Profession</li>
+<li>PyCon US 2021 - Computational thinking for Creatives - Decoding Barriers to Entry</li>
 <li>YourDesk University 2021 - Leveling up your Tech Stack</li>
 <li>MongoDB live 2021 - The Importance of Visuals in Teaching Code and Reducing Bias</li>
 <li>ENR Build Tech 2021 - Data in Building Design and Construction</li>
