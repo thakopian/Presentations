@@ -5,6 +5,9 @@ List of Conferences I have presented in:
 
 
 <ul>
+<li>Autodesk University 2021 - Case Study of using Forge Web APIs for Data Management</li>
+<li>XCON 2021 - Big Data for Big Projects - Using Data for Any Scale of Design</li>
+<li>BIM SUmmit 2021 - The Future of BIM and Visualization with Digital Twins</li>
 <li>StackConf 2021 - The Importance of Visuals in Teaching Code and Reducing Bias</li>
 <li>MongoDB live 2021 - The Importance of Visuals in Teaching Code and Reducing Bias</li>
 <li>Upstream 2021 - Computational thinking for Creatives - Decoding Barriers to Entry</li>
@@ -15,12 +18,12 @@ List of Conferences I have presented in:
 <li>ENR Build Tech 2021 - Data in Building Design and Construction</li>
 <li>RedHat DevConf 2021 - Computational Thinking for Creatives</li>
 <li>Autodesk University 2020</li>
-<li>AEC Hackathon 2020</li>
+<li>AEC Hackathon 2020 - Python Programming for Dynamo Workshop</li>
 <li>Bluebeam Virtual Series 2020</li>
-<li>AEC Tech 2020</li>
+<li>AEC Tech 2020 - Getting started with Programming</li>
 <li>ENR Future Tech 2020 - Panel on adopting technology in the AEC industry</li>
-<li>PyBay 2020</li>
-<li>PyGotham 2020</li>
+<li>PyBay 2020 - Python for Visual Programming</li>
+<li>PyGotham 2020 - Python in Architecture</li>
 <li>DBEI Data Day 2020</li>
 <li>USC BIMBOP - Learning to Code for Architects</li>
 <li>ATG Midwest University 2020 - Intro to Dynamo and Creating BIM execution plans</li>
