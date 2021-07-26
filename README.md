@@ -1,5 +1,5 @@
 # Presentations
-Documents from conferences and events I spoke at
+Documents from conferences and events I spoke at available to view - https://github.com/thakopian/Presentations
 
 List of Conferences I have presented in:
 
