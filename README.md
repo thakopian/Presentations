@@ -5,7 +5,10 @@ List of Conferences I have presented in:
 
 
 <ul>
+<li>DevWeek Austin 2021 - The Importance of Visuals in Teaching Python</li>
+<li>DevRelCon 2021 - Computational Thinking for Creatives</li>  
 <li>Autodesk University 2021 - Case Study of using Forge Web APIs for Data Management</li>
+<li>Autodesk University 2021 - Hidden Super Powers of Dynamo Part 2: Package Managers Assemble!</li>
 <li>XCON 2021 - Big Data for Big Projects - Using Data for Any Scale of Design</li>
 <li>BIM SUmmit 2021 - The Future of BIM and Visualization with Digital Twins</li>
 <li>StackConf 2021 - The Importance of Visuals in Teaching Code and Reducing Bias</li>
